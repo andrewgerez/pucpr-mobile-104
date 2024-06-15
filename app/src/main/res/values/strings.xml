@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="calculadora_imc">PUCPR Calculadora IMC</string>
+    <string name="inform_name">Seu nome</string>
+    <string name="inform_height">Altura (.cm)</string>
+    <string name="inform_weight">Peso (.kg)</string>
+    <string name="calculate">Calcular</string>
+    <string name="imc_zero">
+        Preencha todos os campos corretamente.
+    </string>
+    <string name="accordingly">De acordo…</string>
+    <string name="your_imc">O seu IMC é de</string>
+    <string name="result">Resultado:</string>
+    <string name="back">Voltar</string>
+</resources>
