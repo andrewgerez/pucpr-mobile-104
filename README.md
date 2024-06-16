@@ -27,7 +27,7 @@
 
 
 ## About The Project
-Calculadora IMC desenvolvida em Java. 💳
+Calculadora IMC desenvolvida em Java. 🔢
 
 ### Students
 * Andrew Gerez dos Santos
