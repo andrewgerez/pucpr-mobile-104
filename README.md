@@ -2,7 +2,7 @@
   <h3 align="center">PUCPR: Desenvolvimento para dispositivos móveis</h3>
 
   <p align="center">
-    Aplicação desenvolvida em Java para calcular o IMC.
+    Aplicação desenvolvida em Java para calcular o IMC
   </p>
 </div>
 
@@ -28,6 +28,12 @@
 
 ## About The Project
 Calculadora IMC desenvolvida em Java. 💳
+
+### Students
+* Andrew Gerez dos Santos
+* Alfred Gabriel Ribeiro Fadel
+* Henrique Eduardo da Maia Farias
+* Wallace Azevedo Pereira
 
 ### Built With
 
